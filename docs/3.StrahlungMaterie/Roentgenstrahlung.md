@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Atommodelle
+title: Röntgenstrahlung
 parent: Mikro-/Makrokosmos
 grand_parent: 3. Strahlung und Materie
 nav_order: 6
