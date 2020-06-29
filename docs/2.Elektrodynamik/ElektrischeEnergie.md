@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Elektrische Energie
-parent: Elektrodynamik
+parent: 2. Elektrodynamik
 has_children: true
 nav_order: 1
 ---

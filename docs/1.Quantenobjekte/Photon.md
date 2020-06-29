@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Photon
-parent: Quantenobjekte
+parent: 1. Quantenobjekte
 has_children: true
 nav_order: 1
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Mechanische Wellen
 parent: Photon
-grand_parent: Quantenobjekte
+grand_parent: 1. Quantenobjekte
 nav_order: 1
 ---
 

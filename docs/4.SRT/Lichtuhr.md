@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lichtuhr
-parent: Spezielle Relativitätstheorie
+parent: 4. Spezielle Relativitätstheorie
 has_children: false
 nav_order: 1
 ---

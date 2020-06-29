@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mikro-/Makrokosmos
-parent: Strahlung und Materie
+parent: 3. Strahlung und Materie
 has_children: true
 nav_order: 1
 ---
