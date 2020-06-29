@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mechanische Wellen
-parent: Erfoschrung des Photons
+parent: Erforschung des Photons
 grand_parent: 1. Quantenobjekte
 nav_order: 1
 ---

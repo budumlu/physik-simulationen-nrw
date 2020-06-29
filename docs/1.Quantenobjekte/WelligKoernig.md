@@ -6,4 +6,4 @@ has_children: true
 nav_order: 3
 ---
 
-# 1.3 Wellig und Körnig
+# Wellig und Körnig
