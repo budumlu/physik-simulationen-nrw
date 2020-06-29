@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Schroedingers Katze
-parent: Wellig und Koernig
+parent: Wellig und Körnig
 grand_parent: 1. Quantenobjekte
 nav_order: 1
 ---
