@@ -1,37 +1,15 @@
 
 
-## Herzlich Willkommen zur OER-Buchvorlage
+# Herzlich Willkommen zur Sammlung von Physik-Simulationen für die gymnasiale Oberstufe in NRW
 
-Diese [Buchvorlage](https://github.com/budumlu/OER-Buch-Vorlage/edit/master/README.md) kann frei verwendet werden.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Physik-Simulationen NRW
+Dieses OER-Buch sammelt Simulationen zum Grundkurs Physik in NRW. Eine weitere Zusammenstellung der "25 zentralen Versuche" und weitere grundlegender physikalischer Simulationen findet sich auf der Homepage von Matthias Borchardt.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Lizenz
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/budumlu/Thymio-Book/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Diese Vorlage wird über "GitHub Pages" veröffentlicht und kann über den oben rechts eingebundenen Link "OER-Buchvorlage auf GitHub" kopiert und verändert werden.
+Der OER-Leitfaden von Torsten Budumlu ist lizensiert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Internationale Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
+![](https://budumlu.github.io/OER-Buch-Vorlage/assets/88x31.png)

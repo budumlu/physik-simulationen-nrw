@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Herzlich Willkommen
+title: Physik-Simulationen NRW
 nav_order: 1
 ---
-## Herzlich Willkommen
-
-Diese [Buchvorlage](https://github.com/budumlu/OER-Buch-Vorlage/edit/master/README.md) kann frei verwendet werden.
+## Physik-Simulationen NRW
+Dieses OER-Buch sammelt Simulationen zum Grundkurs Physik in NRW. Eine weitere Zusammenstellung der "25 zentralen Versuche" und weitere grundlegender physikalischer Simulationen findet sich auf der Homepage von Matthias Borchardt.
 
 
 ## Lizenz
