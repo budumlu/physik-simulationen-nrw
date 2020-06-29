@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interferenz am Doppelspalt
+title: Beugung und Interferenz am Doppelspalt
 parent: Erforschung des Photons
 grand_parent: 1. Quantenobjekte
 nav_order: 5
