@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Elektrodynamik
+title: 2.Elektrodynamik
 has_children: true
 nav_order: 20
 ---
 
-# Elektrodynamik
+# 2.Elektrodynamik
