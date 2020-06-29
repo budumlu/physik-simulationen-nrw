@@ -1,9 +1,9 @@
-title: "OER-Buch"
+title: "Physik-Simulationen NRW"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: nil
 search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "OER-Buchvorlage auf GitHub":
-    - "//github.com/budumlu/OER-Buch-Vorlage"
+  "Physik-Simulationen NRW auf GitHub":
+    - "//github.com/budumlu/physik-simulationen-nrw"
