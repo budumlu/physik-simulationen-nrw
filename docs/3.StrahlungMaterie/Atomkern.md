@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Elektromagnetisches Spektrum
-parent: Mikro-/Makrokosmos
+title: Atomkern
+parent: Mensch und Strahlung
 grand_parent: 3. Strahlung und Materie
 nav_order: 1
 ---
