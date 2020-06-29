@@ -4,7 +4,7 @@ title: Physik-Simulationen NRW
 nav_order: 1
 ---
 ## Physik-Simulationen NRW
-Dieses OER-Buch sammelt Simulationen zum Grundkurs Physik in NRW. Eine weitere Zusammenstellung der "25 zentralen Versuche" und weitere grundlegender physikalischer Simulationen findet sich auf der Homepage von Matthias Borchardt.
+Dieses OER-Buch sammelt Simulationen zum Grundkurs Physik in NRW. Eine weitere Zusammenstellung der "25 zentralen Versuche" und weitere grundlegender physikalischer Simulationen findet sich auf der [Homepage von Matthias Borchardt](http://www.mabo-physik.de/grundkurs_q1_q2.html).
 
 
 ## Lizenz
