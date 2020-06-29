@@ -6,4 +6,4 @@ has_children: true
 nav_order: 1
 ---
 
-# 1.1 Erforschung des Photons
+# Erforschung des Photons
