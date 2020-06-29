@@ -3,7 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: nil
 search_enabled: true
 
-# Aux links for the upper right navigation
+# Aux link für die Navigation zur Quelle auf GitHub
 aux_links:
   "Physik-Simulationen NRW auf GitHub":
     - "//github.com/budumlu/physik-simulationen-nrw"
