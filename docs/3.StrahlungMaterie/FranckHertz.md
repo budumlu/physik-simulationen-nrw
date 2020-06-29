@@ -8,4 +8,4 @@ nav_order: 3
 
 # Der Franck-Hertz-Versuch
 
-(https://www.leifiphysik.de/atomphysik/atomarer-energieaustausch/downloads/franck-hertz-versuch-animation)
+[Franck-Hertz-Animation auf leifiphysik.de](https://www.leifiphysik.de/atomphysik/atomarer-energieaustausch/downloads/franck-hertz-versuch-animation)

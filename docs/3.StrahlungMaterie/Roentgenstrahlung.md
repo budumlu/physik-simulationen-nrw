@@ -7,4 +7,4 @@ nav_order: 6
 ---
 
 # Die Röntgenstrahlung
-http://www.planet-schule.de/sf/multimedia-interaktive-animationen-detail.php?projekt=strahlung
+[Animation zur Röntgenstrahlung auf planet-schule.de](http://www.planet-schule.de/sf/multimedia-interaktive-animationen-detail.php?projekt=strahlung)

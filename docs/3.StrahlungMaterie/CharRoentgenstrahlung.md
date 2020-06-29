@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Atommodelle
+title: Charakteristische Roentgenstrahlung
 parent: Mikro-/Makrokosmos
 grand_parent: 3. Strahlung und Materie
 nav_order: 7
 ---
 
 # Charakteristische Röntgenstrahlung
-* http://www.leifiphysik.de/atomphysik/atomarer-energieaustausch/charakteristische-roentgenstrahlung
+[Animation zur Charakteristischen Röntgenstrahlung auf leifiphysik.de](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/downloads/charakteristische-roentgen-strahlung-animation)
