@@ -7,5 +7,3 @@ nav_order: 1
 ---
 
 # Elektrische Energie gewinnen und verteilen
-
-I am a child page.
