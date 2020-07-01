@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Charakteristische Roentgenstrahlung
+title: Charakteristische Röntgenstrahlung
 parent: Mikro-/Makrokosmos
 grand_parent: 3. Strahlung und Materie
 nav_order: 7

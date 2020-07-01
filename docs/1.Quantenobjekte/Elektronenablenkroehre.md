@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Elektronenablenkroehre
+title: Elektronenablenkröhre
 parent: Erforschung des Elektrons
 grand_parent: 1. Quantenobjekte
 nav_order: 4

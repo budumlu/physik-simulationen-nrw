@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wellenwanne
+title: Interferenz in der Wellenwanne
 parent: Erforschung des Photons
 grand_parent: 1. Quantenobjekte
 nav_order: 2
